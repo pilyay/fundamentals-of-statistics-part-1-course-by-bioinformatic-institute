@@ -1,2 +1,6 @@
 .DS_store
-manuals/
+.ipynb_checkpoints/
+.idea/
+webinars/
+*.csv
+original.ipynb
